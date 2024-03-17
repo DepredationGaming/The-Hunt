@@ -32,7 +32,7 @@ tab.newButton("The Hunt Escape The Running Head", "Credits To Tora isme", functi
 
 end)
 
-tab.newButton("The Hunt Obby but You Are a Bike ðŸ”‘", "Credits To Tora isme", function()
+tab.newButton("The Hunt Obby but You Are a Bike 🙏”‘", "Credits To Tora isme", function()
  loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/ObbyBike'))();
 
 end)
@@ -53,12 +53,12 @@ game:GetService("ReplicatedStorage").Knit.Services.MapStateService.RE.OnStateAct
 
 end)
 
-tab.newButton("The Hunt Car DealershipðŸŽï¸", "Credits To Tora isme", function()
+tab.newButton("The Hunt Car Dealership😂¸", "Credits To Tora isme", function()
   loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTCarDealership'))()
 
 end)
 
-tab.newButton("The Hunt The MimicðŸ’€", "Credits To Tora isme", function()
+tab.newButton("The Hunt The Mimic✅", "Credits To Tora isme", function()
   loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTTheMimic'))()
 
 end)
@@ -207,7 +207,7 @@ loadstring(game:HttpGet(('https://pastefy.app/O1TvLreD/raw'),true))()
 
 end)
 
-tab.newButton("The Hunt Doors ðŸšª", "Credits To Tora isme", function()
+tab.newButton("The Hunt Doors 🚪", "Credits To Tora isme", function()
 
   loadstring(game:HttpGet("https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/Loader.lua"))()
 
@@ -238,13 +238,13 @@ tab.newButton("The Hunt Funky Friday _AutoPlayer_", "Credits To Nadir and Wally"
 
 end)
 
-tab.newButton("The Hunt The Floor Is Lava ðŸ”¥", "Credits To Tora Isme", function()
+tab.newButton("The Hunt The Floor Is Lava 🔥", "Credits To Tora Isme", function()
 
   game:GetService("ReplicatedStorage").Remotes.AwardEvent2:FireServer()
 
 end)
 
-tab.newButton("The Hunt StrongMan Simulator ðŸ’ªðŸ¿", "Credits To Tora Isme", function()
+tab.newButton("The Hunt StrongMan Simulator 💪💪", "Credits To Tora Isme", function()
 
   game:GetService("ReplicatedStorage").Remotes.AwardEvent2:FireServer()
 
@@ -262,12 +262,15 @@ tab2.newButton("Pls Donate", "My user is wafi171 donate to support :( ", functio
   loadstring(game:HttpGet("https://raw.githubusercontent.com/CF-Trail/tzechco-PlsDonateAutofarmBackup/main/autofarm"))()
 
 end)
-
-tab3.newButton("16/3/2024 â€¢ +2 Scripts", "YAY", function(text)
+tab3.newButton("16/3/2024 🔥🔥 +so many Scripts", "YAY", function(text)
     print("Sub to envixity scripts")
 end)
 
-tab3.newButton("16/3/2024 â€¢ +4 Scripts Fixed Bugs No Lag Much Smoother Added New tabs", "YAY", function()
+tab3.newButton("16/3/2024 😩 +2 Scripts", "YAY", function(text)
+    print("Sub to envixity scripts")
+end)
+
+tab3.newButton("16/3/2024 🗣️ +4 Scripts Fixed Bugs No Lag Much Smoother Added New tabs", "YAY", function()
     print("the hunt HUB LOADED!")
 end)
 
@@ -287,8 +290,8 @@ tab4.newButton("Zylex Contribution", "(i Am zylex i am contributing to this repo
     print("zylex Boi")
 end)
 
-tab.newButton("More Coming SoonðŸ¤¤ ", "Drink Some Water till then", function()
+tab.newButton("More Coming Soon💦 ", "Drink Some Water till then", function()
 
-  print("Created by wafi171")
+  print("Created by wafi171 and Zylex")
 
 end)
