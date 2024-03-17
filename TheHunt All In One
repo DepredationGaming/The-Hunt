@@ -207,6 +207,16 @@ tab.newButton("The Hunt Dragon Adventures. As soon as u join execute this script
 
 end)
 
+tab.newButton("The Hunt LiveTopia. As soon as u join execute this script ", "Credits To Tora isme", function()
+
+  local args = {
+    [1] = "Easter2024_Egg",
+    [2] = "Equip"
+}
+
+game:GetService("ReplicatedStorage").Remotes.EquipToolRF:InvokeServer(unpack(args))
+end)
+
 tab.newButton("The Hunt Arm Wrestling. As soon as u join execute this script ", "Credits To Tora isme", function()
 
   loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTArm'))()
