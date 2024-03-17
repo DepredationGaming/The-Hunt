@@ -234,7 +234,7 @@ end)
 
 tab.newButton("The Hunt Funky Friday _AutoPlayer_", "Credits To Nadir and Wally", function()
 
-  loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTNDS'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wally-rblx/funky-friday-autoplay/main/main.lua",true))()
 
 end)
 
