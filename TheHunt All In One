@@ -32,7 +32,7 @@ tab.newButton("The Hunt Escape The Running Head", "Credits To Tora isme", functi
 
 end)
 
-tab.newButton("The Hunt Obby but You Are a Bike 🙏”‘", "Credits To Tora isme", function()
+tab.newButton("The Hunt Obby but You Are a Bike 🙏", "Credits To Tora isme", function()
  loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/ObbyBike'))();
 
 end)
@@ -53,7 +53,7 @@ game:GetService("ReplicatedStorage").Knit.Services.MapStateService.RE.OnStateAct
 
 end)
 
-tab.newButton("The Hunt Car Dealership😂¸", "Credits To Tora isme", function()
+tab.newButton("The Hunt Car Dealership😂", "Credits To Tora isme", function()
   loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTCarDealership'))()
 
 end)
