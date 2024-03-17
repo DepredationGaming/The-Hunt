@@ -32,7 +32,7 @@ tab.newButton("The Hunt Escape The Running Head", "Credits To Tora isme", functi
 
 end)
 
-tab.newButton("The Hunt Obby but You Are a Bike 🙏", "Credits To Tora isme", function()
+tab.newButton("The Hunt Obby but You Are a Bike 🙏”‘", "Credits To Tora isme", function()
  loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/ObbyBike'))();
 
 end)
@@ -53,7 +53,7 @@ game:GetService("ReplicatedStorage").Knit.Services.MapStateService.RE.OnStateAct
 
 end)
 
-tab.newButton("The Hunt Car Dealership😂", "Credits To Tora isme", function()
+tab.newButton("The Hunt Car Dealership😂¸", "Credits To Tora isme", function()
   loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTCarDealership'))()
 
 end)
@@ -126,6 +126,78 @@ end)
 tab.newButton("The Hunt War Tycoon. As soon as u join execute this script ", "Credits To Tora isme", function()
 
   loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTWar'))()
+
+end)
+
+tab.newButton("The Hunt Treasure Hunt Simulator. As soon as u join execute this script ", "Credits To Tora isme", function()
+
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTTreasure'))()
+
+end)
+
+tab.newButton("The Hunt Warrior Cat. As soon as u join execute this script ", "Credits To BaconBossScript", function()
+
+loadstring(game:HttpGet(('https://pastefy.app/B6T7FhLE/raw'),true))()
+
+end)
+
+tab.newButton("The Hunt Redcliff City. As soon as u join execute this script ", "Credits To Bacon Boss Script", function()
+
+  loadstring(game:HttpGet(('https://pastefy.app/GzC2PpL0/raw'),true))()
+
+end)
+
+tab.newButton("The Hunt SCP 3008. As soon as u join execute this script ", "Credits To Zylex", function()
+
+   loadstring(game:HttpGet('https://raw.githubusercontent.com/DepredationGaming/The-Hunt/main/HUNTScp'))()
+
+end)
+
+tab.newButton("The Hunt Bedwars Script. As soon as u join execute this script ", "Credits To Xylex", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+
+end)
+
+tab.newButton("The Hunt Break In Story 2. As soon as u join execute this script ", "Credits To JN HH GAMING", function()
+
+  loadstring(game:HttpGet("https://freenote.biz/raw/80jXm2Q0a7",true))()
+
+end)
+
+tab.newButton("The Hunt Dress To Impress. As soon as u join execute this script ", "Credits To Bacon Boss Script", function()
+
+loadstring(game:HttpGet(('https://pastefy.app/pSYBbjnz/raw'),true))()
+
+end)
+
+tab.newButton("The Hunt Murder Vs Sheriff. As soon as u join execute this script ", "Credits To Tora isme", function()
+
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTDuels'))()
+
+end)
+
+tab.newButton("The Hunt SpongeBob. As soon as u join execute this script ", "Credits To Tora isme", function()
+
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/SpongeBob'))()
+
+end)
+
+tab.newButton("The Hunt Collect All Pets. As soon as u join execute this script ", "Credits To Tora isme", function()
+
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTCollect'))()
+
+end)
+
+tab.newButton("The Hunt Blade ball autoparry. As soon as u join execute this script ", "Credits To me", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/skem420/bldeball/main/main.lua"))()
+
+end)
+
+tab.newButton("The Hunt Death ball autoparry. As soon as u join execute this script ", "Credits To me", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/Death/main/Ball"))()
 
 end)
 
@@ -263,6 +335,10 @@ tab2.newButton("Pls Donate", "My user is wafi171 donate to support :( ", functio
 
 end)
 tab3.newButton("16/3/2024 🔥🔥 +so many Scripts", "YAY", function(text)
+    print("Sub to envixity scripts")
+end)
+
+tab3.newButton("16/3/2024 more and more 💦💪 +so many Scripts", "YAY", function(text)
     print("Sub to envixity scripts")
 end)
 
