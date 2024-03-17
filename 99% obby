@@ -1,0 +1,11 @@
+local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/wizard"))()
+
+local PhantomForcesWindow = Library:NewWindow("Free Ugc")
+
+local KillingCheats = PhantomForcesWindow:NewSection("Credits To Envixity")
+
+KillingCheats:CreateButton("autofarm Wins", function()
+while wait() do
+game:GetService('Players').LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-540.254883, 1069.41748, -37.8564758, -0.0115210256, 0.00683571491, 0.999910295, -9.21901184e-12, 0.999976635, -0.00683616847, -0.99993366, -7.875968e-05, -0.0115207564)
+end
+end)
