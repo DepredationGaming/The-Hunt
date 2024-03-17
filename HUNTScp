@@ -1,0 +1,36 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+
+
+
+function Script()
+    local Window = Library.CreateLib("Scp 3008", "Synapse")
+
+
+
+    local Main = Window:NewTab("Main")
+    local MainSection = Main:NewSection("Main")
+
+
+    -- Script
+
+MainSection:NewButton("Use 1276, 5, 1651 in this Gui", "Give you Coordinate Tracker script.", function()
+   loadstring(game:HttpGet('https://raw.githubusercontent.com/DepredationGaming/The-Hunt/main/Coordinateteleporter'))()
+    end)
+
+    MainSection:NewButton("Infinite Yield For Flying", "Give you infinite yield script.", function()
+        loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
+    end)
+
+    -- Credits
+
+
+    local Credits = Window:NewTab("Credits")
+    local CreditsSection = Credits:NewSection("Credits")
+
+
+    CreditsSection:NewLabel("Created by Zylex Or Myself DepredationGaming")
+end
+
+if game.PlaceId == 2768379856 then
+    Script()
+end
