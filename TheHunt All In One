@@ -294,9 +294,9 @@ loadstring(game:HttpGet(('https://pastefy.app/LOyKaxWe/raw'),true))()
 
 end)
 
-tab.newButton("The Hunt A wolf or Other. As soon as u join execute this script ", "Credits To BaconBoss Scripts", function()
+tab.newButton("The Hunt A wolf or Other. As soon as u join execute this script ", "Credits To Toraisme", function()
 
-loadstring(game:HttpGet(('https://pastefy.app/VZjK95cQ/raw'),true))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTWolf'))()
 
 end)
 
