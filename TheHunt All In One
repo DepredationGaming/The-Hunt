@@ -300,12 +300,6 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/mai
 
 end)
 
-tab.newButton("The Hunt Pls Donate. As soon as u join execute this script ", "Credits To Toraisme", function()
-
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTPLSDONATE))()
-
-end)
-
 tab.newButton("The Hunt life together. As soon as u join execute this script ", "Credits To BaconBoss Scripts", function()
 
 loadstring(game:HttpGet(('https://pastefy.app/VJ9E006W/raw'),true))()
