@@ -16,6 +16,11 @@ tab.newButton("The Hunt Bike of Hell", "Credits To Tora isme", function()
 
 end)
 
+tab.newButton("The Hunt Bike of Hell", "Credits To Tora isme", function()
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/Swordburst'))()
+
+end)
+
 tab.newButton("The Hunt Roblox Club", "Credits To Tora isme", function()
 
   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(674, 114, 258)
