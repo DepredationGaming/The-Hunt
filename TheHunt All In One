@@ -116,6 +116,12 @@ tab.newButton("The Hunt Military tycoon. As soon as u join execute this script "
 
 end)
 
+tab.newButton("The Hunt Plz Donate. As soon as u join execute this script ", "Credits To Tora isme", function()
+
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTPLSDONATE))()
+
+end)
+
 tab.newButton("The Hunt Tsb. As soon as u join execute this script ", "Credits To Tora isme", function()
 
   loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTTSB'))()
