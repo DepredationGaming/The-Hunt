@@ -16,7 +16,7 @@ tab.newButton("The Hunt Bike of Hell", "Credits To Tora isme", function()
 
 end)
 
-tab.newButton("The Hunt Bike of Hell", "Credits To Tora isme", function()
+tab.newButton("The Hunt SwordBurst", "Credits To Tora isme", function()
   loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/Swordburst'))()
 
 end)
@@ -140,9 +140,21 @@ tab.newButton("The Hunt Treasure Hunt Simulator. As soon as u join execute this 
 
 end)
 
+tab.newButton("The Hunt Wild Horse. As soon as u join execute this script ", "Credits To Tora isme", function()
+
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTHorse'))()
+
+end)
+
 tab.newButton("The Hunt Warrior Cat. As soon as u join execute this script ", "Credits To BaconBossScript", function()
 
 loadstring(game:HttpGet(('https://pastefy.app/B6T7FhLE/raw'),true))()
+
+end)
+
+tab.newButton("The Hunt Restaurant tycoon 2. As soon as u join execute this script ", "Credits To BaconBossScript", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iz037/Zeld-Hub/main/Script/Restaurant%20Tycoon%202.lua"))()
 
 end)
 
