@@ -380,11 +380,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/AAwful/VectorHub/main
 
 end)
 
-tab2.newButton("Pls Donate", "My user is wafi171 donate to support :( ", function()
-
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/CF-Trail/tzechco-PlsDonateAutofarmBackup/main/autofarm"))()
-
-end)
 tab3.newButton("16/3/2024 🔥🔥 +so many Scripts", "YAY", function(text)
     print("Sub to envixity scripts")
 end)
