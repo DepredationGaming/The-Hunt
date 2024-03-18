@@ -147,6 +147,12 @@ tab.newButton("The Hunt Redcliff City. As soon as u join execute this script ", 
 
 end)
 
+tab.newButton("The Hunt Greenville. As soon as u join execute this script ", "Credits To Bacon Boss Script", function()
+
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTGreenville'))()
+
+end)
+
 tab.newButton("The Hunt SCP 3008. As soon as u join execute this script ", "Credits To Zylex", function()
 
    loadstring(game:HttpGet('https://raw.githubusercontent.com/DepredationGaming/The-Hunt/main/HUNTScp'))()
