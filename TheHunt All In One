@@ -123,7 +123,7 @@ tab.newButton("The Hunt Mega Hide And Seek. As soon as u join execute this scrip
 
 end)
 
-tab.newButton("The Hunt War Tycoon. As soon as u join execute this script ", "Credits To Tora isme", function()
+tab.newButton("The Hunt War Tycoon. Move around the map to make the crates render ", "Credits To Tora isme", function()
 
   loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTWar'))()
 
