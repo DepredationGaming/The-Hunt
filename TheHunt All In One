@@ -246,6 +246,18 @@ tab.newButton("The Hunt Elemental Powers tycoon. As soon as u join execute this 
 
 end)
 
+tab.newButton("The Hunt Royale High. As soon as u join execute this script ", "Credits To Tora isme", function()
+
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTRoyale'))()
+
+end)
+
+tab.newButton("The Hunt Driving Empire. As soon as u join execute this script ", "Credits To Tora isme", function()
+
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTEmpire'))()
+
+end)
+
 tab.newButton("The Hunt Tsunami Game. As soon as u join execute this script ", "Credits To Tora isme", function()
 
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(workspace.ScriptImportance.AlienShop.Position)
