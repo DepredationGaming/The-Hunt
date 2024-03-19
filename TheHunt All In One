@@ -384,7 +384,7 @@ end)
 
 tab.newButton("The Hunt StrongMan Simulator 💪💪", "Credits To Tora Isme", function()
 
-  game:GetService("ReplicatedStorage").Remotes.AwardEvent2:FireServer()
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTStrongman'))()
 
 end)
 
