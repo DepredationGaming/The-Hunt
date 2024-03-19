@@ -67,11 +67,6 @@ tab.newButton("The Hunt Drive World, "Credits To Tora isme", function()
 
 end)
 
-tab.newButton("The Hunt Deadly Decisions", "Credits To Tora isme", function()
-  loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTDeadly'))()
-
-end)
-
 tab.newButton("The Hunt Sonic Speed Simulator Instructions: Goto the Hunt portal then execute it", "Credits To Tora isme", function()
 
   local args = {
