@@ -62,8 +62,8 @@ tab.newButton("The Hunt Natural Disaster Survival", "Credits To Tora isme", func
 
 end)
 
-tab.newButton("The Hunt Drive World, "Credits To Tora isme", function()
-  loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTDriveWorld'))()
+tab.newButton("The Hunt Deadly Decisions", "Credits To Tora isme", function()
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTDeadly'))()
 
 end)
 
