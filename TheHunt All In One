@@ -78,6 +78,12 @@ tab.newButton("The Hunt Car Dealership😂¸", "Credits To Tora isme", functio
 
 end)
 
+tab.newButton("The Hunt World zero", "Credits To Tora isme", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HeiKe2022/wz-beta/main/combine.lua"))()
+
+end)
+
 tab.newButton("The Hunt The Mimic✅", "Credits To Tora isme", function()
   loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTTheMimic'))()
 
