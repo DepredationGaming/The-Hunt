@@ -37,6 +37,16 @@ tab.newButton("The Hunt Undead Defense", "Credits To Tora isme", function()
 
 end)
 
+tab.newButton("The Hunt Toilet Tower Defense", "Credits To Tora isme", function()
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTToiletTower'))()
+
+end)
+
+tab.newButton("The Hunt Catalog Avatar ", "Credits To Tora isme", function()
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTCatalog'))()
+
+end)
+
 tab.newButton("The Hunt Escape The Running Head", "Credits To Tora isme", function()
   loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTRunningHead'))()
 
