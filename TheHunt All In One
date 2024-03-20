@@ -418,6 +418,12 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/HenSeu87PofghYT/Astro
 
 end)
 
+tab2.newButton("The Hunt My Restaurant ", "Credits to Toraisme", function()
+
+loadstring(game:HttpGet("https://gist.githubusercontent.com/SpencerDevv/33683ac31b7e2621b90b9a3b39a3155c/raw/9d4fd60202457cacb17871e5d18b3654bdd344e6/betaV8"))()
+
+end)
+
 tab2.newButton("The Hunt Pls Donate", "Credits to Toraisme", function()
 
     loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTPLSDONATE'))()
