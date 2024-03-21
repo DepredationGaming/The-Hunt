@@ -500,6 +500,12 @@ tab2.newButton("The Hunt Love Battlegrounds", "Credits to Toraisme", function()
 
 end)
 
+tab2.newButton("The Hunt Pet sim 99(Get Ur own Auth)", "Credits to Envixity /Huge games too💪💪💪💪💪", function()
+
+loadstring(game:HttpGet("https://HugeGames.io/ps99"))()
+
+end)
+
 
 tab3.newButton("16/3/2024 🔥🔥 +so many Scripts", "YAY", function(text)
     print("Sub to envixity scripts")
