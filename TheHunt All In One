@@ -412,15 +412,15 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/HenSeu87PofghYT/Lumbe
 
 end)
 
-tab2.newButton("The Hunt Astro Renaissance", "Credits to dex/found by tora", function()
+tab2.newButton("The Hunt Astro Renaissance", "Credits to NS Hub", function()
 
-game:GetService("ReplicatedStorage").QuestAssets.MainEvent:FireServer("FinishMoonlight")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HenSeu87PofghYT/Astro-Renaissance/main/Nameless%20Scripts"))()
 
 end)
 
-tab2.newButton("The Hunt Gun fight arena", "Credits to Toraisme", function()
+tab2.newButton("The Hunt Gun Fight Arena(IN PROGRESS)", "Credits to Toraisme", function()
 
-  loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTGunfight))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/WeaponFighting'))()
 
 end)
 
