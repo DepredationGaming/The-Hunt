@@ -1,0 +1,36 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+
+
+
+function Script()
+    local Window = Library.CreateLib("Gun fight arena", "Synapse")
+
+
+
+    local Main = Window:NewTab("Main")
+    local MainSection = Main:NewSection("Main")
+
+
+    -- Script
+
+MainSection:NewButton("The script By tora ty tora", "Gives u the script :).", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTGunfight))()
+    end)
+
+    MainSection:NewButton("Infinite Yield For Flying", "Give you infinite yield script.", function()
+        loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
+    end)
+
+    -- Credits
+
+
+    local Credits = Window:NewTab("Credits")
+    local CreditsSection = Credits:NewSection("Credits")
+
+
+    CreditsSection:NewLabel("Created by Tora andZylex Or Myself DepredationGaming")
+end
+
+if game.PlaceId == 14518422161 then
+    Script()
+end
