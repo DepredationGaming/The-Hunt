@@ -412,6 +412,12 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/HenSeu87PofghYT/Lumbe
 
 end)
 
+tab2.newButton("The Hunt Lumberjack Tycoon 2", "Credits to Bacon Boss", function()
+game:HttpGet("https://getexploits.com/cexecution/694139985821192192")
+loadstring(game:HttpGet"https://raw.githubusercontent.com/darkxwin/darkxsourcethinkyoutousedarkx/main/darkx")()
+
+end)
+
 tab2.newButton("The Hunt Astro Renaissance", "Credits to NS Hub", function()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/HenSeu87PofghYT/Astro-Renaissance/main/Nameless%20Scripts"))()
