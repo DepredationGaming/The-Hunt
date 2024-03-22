@@ -420,7 +420,7 @@ end)
 
 tab2.newButton("The Hunt Gun Fight Arena(IN PROGRESS)", "Credits to Toraisme", function()
 
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/WeaponFighting'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTGunfight'))()
 
 end)
 
@@ -497,6 +497,18 @@ end)
 tab2.newButton("The Hunt Love Battlegrounds", "Credits to Toraisme", function()
 
     loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTFruitBattle'))()
+
+end)
+
+tab2.newButton("The Hunt Dungeon Quest", "Credits to Toraisme", function()
+
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTDungeon'))()
+
+end)
+
+tab2.newButton("The Hunt Anime Dimensions", "Credits to Toraisme", function()
+
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTDimensions'))()
 
 end)
 
