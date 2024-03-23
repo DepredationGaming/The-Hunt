@@ -518,12 +518,6 @@ tab2.newButton("The Hunt Anime Dimensions", "Credits to Toraisme", function()
 
 end)
 
-tab2.newButton("The Hunt Pull a sword", "Credits to Toraisme", function()
-
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/PullaSword'))()
-
-end)
-
 tab2.newButton("The Hunt Pet sim 99(Get Ur own Auth)", "Credits to Envixity /Huge games too💪💪💪💪💪", function()
 
 loadstring(game:HttpGet("https://HugeGames.io/ps99"))()
