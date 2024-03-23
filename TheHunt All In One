@@ -408,7 +408,7 @@ end)
 
 tab2.newButton("The Hunt Lumberjack Simulator", "Credits to NSHUB", function()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HenSeu87PofghYT/Lumberjack-Hunt/main/Nameless%20Scripts"))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/Lumberjack))()
 
 end)
 
