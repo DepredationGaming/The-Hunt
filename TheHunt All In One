@@ -3,6 +3,7 @@ local window = DrRayLibrary:Load("DrRay", "Default")
 
 local tab = DrRayLibrary.newTab("Roblox The Hunt Scripts", "ImageIdHere")
 local tab2 = DrRayLibrary.newTab("More The Hunt Scripts", "ImageIdHere")
+local tab5 = DrRayLibrary.newtab("FREE UGC SCRIPTS WOW","ImageIdHere")
 local tab3 = DrRayLibrary.newTab("Updates", "ImageIdHere")
 local tab4 = DrRayLibrary.newTab("Showcasers", "ImageIdHere")
 
@@ -408,7 +409,7 @@ end)
 
 tab2.newButton("The Hunt Lumberjack Simulator", "Credits to NSHUB", function()
 
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/Lumberjack))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HenSeu87PofghYT/Lumberjack-Hunt/main/Nameless%20Scripts"))()
 
 end)
 
@@ -515,6 +516,12 @@ end)
 tab2.newButton("The Hunt Anime Dimensions", "Credits to Toraisme", function()
 
     loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTDimensions'))()
+
+end)
+
+tab2.newButton("The Hunt Pull a sword", "Credits to Toraisme", function()
+
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/PullaSword'))()
 
 end)
 
